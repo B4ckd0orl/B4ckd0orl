@@ -3,20 +3,20 @@
 <h1 align="center"> Hi, I'm B4ckD0or 🍁 </h1>
 <h4 align="center">
 🔭 I’m currently working on nothing  .<br>
-🌱 I’m currently learning Vue.js     .<br>
-🤔 I’m looking for help me in Vue.js .<br>
-⚡ Fun fact: I think reading docs is better then watching videos.<br>
+🌱 I’m currently learning php     .<br>
+🤔 I’m looking for help me in php.<br>
+⚡ Dato curioso: creo que leer documentos es mejor que mirar videos.<br>
 <h4>
 
 
-<h1 align="center"> 📊 Stats: </h1>
+<h1 align="center"> 📊 Estadísticas: </h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=ThevenRexOff&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
   </a>
 </p>
 
-<h1 align="center"> 🔥 Contributions: </h1>
+<h1 align="center"> 🔥 Contribuciones: </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=B4ckd0orl&theme=radical">
@@ -27,7 +27,7 @@
   </a>
 </p>
 
-<!-- <h1 align="center"> 📜 Certificates: </h1>
+<!-- <h1 align="center"> 📜 Certificados: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
     <img src="https://img.shields.io/badge/certificate-Python%20for%20Beginners-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
