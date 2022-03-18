@@ -26,7 +26,7 @@
     <img src="https://activity-graph.herokuapp.com/graph?username=B4ckd0orl&theme=react-dark&hide_border=true">
   </a>
 </p>
-
+-->
 <!-- <h1 align="center"> 📜 Certificados: </h1>
 <p align="center">
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1157/landscape/png" target="_blank">
@@ -36,7 +36,7 @@
     <img src="https://img.shields.io/badge/certificate-Python%20Core-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
   </a>
 </p> 
-  
+  -->
 <h2 align="center"> 🧮 Contador: </h2>
 <p align="center">
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
