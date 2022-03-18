@@ -35,7 +35,7 @@
   <a href="https://www.sololearn.com/certificates/course/en/21983356/1073/landscape/png" target="_blank">
     <img src="https://img.shields.io/badge/certificate-Python%20Core-blue?style=for-the-badge&amp;logo=Python" alt="CertificatePython">
   </a>
-</p> -->
+</p> 
   
 <h2 align="center"> 🧮 Contador: </h2>
 <p align="center">
@@ -43,7 +43,7 @@
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff&style=for-the-badge">
 <a>
 </p>
-</p> -->
+</p> 
 <h2 align="center"> ☘ Social media: </h2>
 <p align="center"> 
   <a href="https://t.me/B4ckd0R" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
