@@ -63,10 +63,5 @@
   <code><img width="3%" alt="adobe-xd"      src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg"></code>
   <code><img width="3%" alt="Linux"         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></code>
     </p>
- <p align="center">
-  <a href="https://github.com/B4ckd0orl"><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B4ckd0orl&theme=dracula&hide_langs_below=1" /></a>
- </p>
- 
-<p align="center">
 
 </p>
