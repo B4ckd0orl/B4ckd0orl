@@ -37,18 +37,12 @@
   </a>
 </p> -->
   
-<h2 align="center"> 🧮 Counter: </h2>
+<h2 align="center"> 🧮 Contador: </h2>
 <p align="center">
   <a href="https://github.com/ESKYoung/shields-io-visitor-counter" target="_blank">
   <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=ThevenRexOff&style=for-the-badge">
 <a>
 </p>
-    
-<!-- <h1 align="center"> ☕ Donation: </h1>
-<p align="center">
-  <a href="https://www.buymeacoffee.com/b4ckdoor target="_blank">
-    <img src="https://img.shields.io/badge/Donate-ThevenRexOff-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
-  </a>
 </p> -->
 <h2 align="center"> ☘ Social media: </h2>
 <p align="center"> 
@@ -56,7 +50,7 @@
   <a href="mailto:alcapone593@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
   </p>
  
-<h2 align="center"> ⚙ Languages and Tools:  </h2>    
+<h2 align="center"> ⚙ Lenguajes y Tools:  </h2>    
 <p align="center"> 
     <code><img width="3%" alt="css"           src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
   <code><img width="3%" alt="js"            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></code>
