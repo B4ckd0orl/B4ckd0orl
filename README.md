@@ -19,11 +19,11 @@
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ThevenRexOff&theme=radical">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=B4ckd0orl&theme=radical">
   </a>
   <br>
   <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ThevenRexOff&theme=react-dark&hide_border=true">
+    <img src="https://activity-graph.herokuapp.com/graph?username=B4ckd0orl&theme=react-dark&hide_border=true">
   </a>
 </p>
 
@@ -46,7 +46,7 @@
     
 <!-- <h1 align="center"> ☕ Donation: </h1>
 <p align="center">
-  <a href="https://www.buymeacoffee.com/ThevenRexOff" target="_blank">
+  <a href="https://www.buymeacoffee.com/b4ckdoor target="_blank">
     <img src="https://img.shields.io/badge/Donate-ThevenRexOff-yellow?style=for-the-badge&amp;logo=BuyMeACoffee" alt="Donate">
   </a>
 </p> -->
