@@ -1,4 +1,4 @@
-!-- [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
+ [![Matrix SVG](https://raw.githubusercontent.com/ThevenRexOff/ThevenRexOff/main/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) -->
 
 <h1 align="center"> Hi, I'm B4ckD0or 🍁 </h1>
 <h4 align="center">
@@ -54,7 +54,6 @@
 <p align="center"> 
   <a href="https://t.me/B4ckd0R" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="mailto:alcapone593@protonmail.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"></a> 
-  <a href="https://www.facebook.com/theven.rex" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
   </p>
  
 <h2 align="center"> ⚙ Languages and Tools:  </h2>    
